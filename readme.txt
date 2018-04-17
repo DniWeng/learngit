@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 git stage test.
 Git has a mutable index called stage.
 Git tracks changes of files.
+git is not very good.
