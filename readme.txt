@@ -6,3 +6,4 @@ Git tracks changes of files.
 test branch.
 test conflict when merge branch.
 test on "--on-ff"
+git stash.
